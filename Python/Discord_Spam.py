@@ -1,3 +1,5 @@
+""" install pip pyautogui """
+
 import pyautogui
 import time
 import sys
@@ -27,4 +29,5 @@ if __name__ == "__main__":
     msg = input("Enter message to send: ")
     num = int(input("How many times? (1): ") or "1")
     
+
     send_messages(msg, num)
