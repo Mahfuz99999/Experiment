@@ -1,0 +1,16 @@
+{
+    "headless": false,
+    "manual_login": true,
+    "email": "",
+    "password": "",
+    "messages": [
+        "Hello! This is a test.",
+        "Second message here."
+    ],
+    "contacts": {
+        "Best Friend": "Hey! What's up?",
+        "Family Group": "Hello everyone!"
+    },
+    "delay_between_messages": 5,
+    "delay_between_contacts": 15
+}
